@@ -7,14 +7,7 @@
 **Node.js Learning, ReactJS, React Native, TypeScript, .NET Core 😼**
 <br />
 
-<br />
-
-*************
-
-<br />
-
 ### - Languages and Tools...
-
 
 ![](https://img.shields.io/badge/ReactJS-informational?style=flat&logo=React&logoColor=white&color=61DAFB)
 ![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=339933)
@@ -31,7 +24,6 @@
 <!-- ![](https://img.shields.io/badge/Visual Studio Codeinformational?style=flat&logo='Visual Studio Code'&logoColor=white&color=007ACC)
 ![](https://img.shields.io/badge/Visual Studio-informational?style=flat&logo=Visual Studio&logoColor=white&color=5C2D91)
 ![](https://img.shields.io/badge/C#-informational?style=flat&logo=C Sharp&logoColor=white&color=239120) -->
-*************
 
 <br />
 
