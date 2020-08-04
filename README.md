@@ -14,17 +14,18 @@
 ![](https://img.shields.io/badge/Nodemon-informational?style=flat&logo=Nodemon&logoColor=white&color=76D04B)
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=336791)
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4479A1)
+![](https://img.shields.io/badge/SQLite-informational?style=flat&logo=SQLite&logoColor=white&color=003B57)
+![](https://img.shields.io/badge/SQL%20Server-informational?style=flat&logo=Microsoft%20SQL%20Server&logoColor=white&color=CC2927)
 ![](https://img.shields.io/badge/Docker-informational?style=flat&logo=Docker&logoColor=white&color=2496ED)
 ![](https://img.shields.io/badge/Gitpod-informational?style=flat&logo=Gitpod&logoColor=white&color=1AA6E4)
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logoColor=white&color=F05032)
 ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=181717)
 ![](https://img.shields.io/badge/DigitalOcean-informational?style=flat&logo=DigitalOcean&logoColor=white&color=0080FF)
 ![](https://img.shields.io/badge/Vultr-informational?style=flat&logo=Vultr&logoColor=white&color=007BFC)
-
-<!-- ![](https://img.shields.io/badge/Visual Studio Codeinformational?style=flat&logo='Visual Studio Code'&logoColor=white&color=007ACC)
-![](https://img.shields.io/badge/Visual Studio-informational?style=flat&logo=Visual Studio&logoColor=white&color=5C2D91)
-![](https://img.shields.io/badge/C#-informational?style=flat&logo=C Sharp&logoColor=white&color=239120) -->
-
+![](https://img.shields.io/badge/Visual%20Studio%20Code-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=007ACC)
+![](https://img.shields.io/badge/Visual%20Studio-informational?style=flat&logo=Visual%20Studio&logoColor=white&color=5C2D91)
+![](https://img.shields.io/badge/C%23-informational?style=flat&logo=C%20Sharp&logoColor=white&color=239120)
+![](https://img.shields.io/badge/%2ENET-informational?style=flat&logo=%2ENET&logoColor=white&color=5C2D91)
 <br />
 
 ![Joilson's github stats](https://github-readme-stats.vercel.app/api?username=joilsonLeal&show_icons=true)
