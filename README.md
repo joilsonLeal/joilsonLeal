@@ -1,13 +1,24 @@
-### Hello there 🖖, i'm Joilson
+# Hello there 🖖
 
-❤️ Programming | 🖤 Coffee | 💙 Learning
+### I'm Joilson, a Full Stack Developer 🚀 from Brazil.
 
-**I am Into , 🙏**
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/joilsonLeal)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joilsonleal/)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:joilson_rg@hotmail.com)
 
-**Node.js Learning, ReactJS, React Native, TypeScript, .NET Core 😼**
-<br />
+<img width="55%" align="right" alt="GIF" src="https://github.com/joilsonLeal/joilsonLeal/blob/master/imgs/comunidade.gif" />
 
-### - Languages and Tools...
+### ✔️ I'm currently learning
+- JavaScript
+- ReactJS
+- Node.js
+- React Native
+
+### 💡 Goals for 2020
+- Become skilled in JavaScript stack
+- Improve my english
+
+### 📖 Languages and Tools...
 
 ![](https://img.shields.io/badge/ReactJS-informational?style=flat&logo=React&logoColor=white&color=61DAFB)
 ![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=339933)
@@ -30,12 +41,7 @@
 
 ![Joilson's github stats](https://github-readme-stats.vercel.app/api?username=joilsonLeal&show_icons=true)
 
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joilsonleal/)](https://www.linkedin.com/in/joilsonleal/)
-<br />
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=joilsonLeal.joilsonLeal)
- 
- <!-- Resources -->
+<!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
 <!-- Emojis: https://emojipedia.org/emoji/ -->
