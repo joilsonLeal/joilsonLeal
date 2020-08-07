@@ -16,6 +16,7 @@
 
 ### 💡 Goals for 2020
 - Become skilled in JavaScript stack
+- Solve one rubik's cube magic
 - Improve my english
 
 ### 📖 Languages and Tools...
