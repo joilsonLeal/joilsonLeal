@@ -12,7 +12,7 @@
 - JavaScript
 - ReactJS
 - Node.js
-- React Native
+- .NET
 
 ### 💡 Goals for 2020
 - Become skilled in JavaScript stack
