@@ -43,8 +43,6 @@
 ![](https://img.shields.io/badge/%2ENET-informational?style=flat&logo=%2ENET&logoColor=white&color=5C2D91)
 <br />
 
-![Joilson's github stats](https://github-readme-stats.vercel.app/api?username=joilsonLeal&show_icons=true)
-
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
