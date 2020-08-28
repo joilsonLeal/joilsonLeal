@@ -17,7 +17,7 @@
 ### 💡 Goals for 2020
 - Become skilled in JavaScript stack
 - Solve one rubik's cube magic
-- Read Clean Code - <strong> Robert Cecil Martin </strong> [███▁▁▁▁▁▁▁] 30%
+- Read Clean Code - <strong> Robert Cecil Martin </strong> [████▁▁▁▁▁▁] 40%
 - Read Refactoring: Improving the Design of Existing Code (Java and Javascript) - <strong> Martin Fowler </strong>
 - Read Domain-Driven Design Tackling Complexity in the Heart of Software - <strong> Eric Evans </strong>
 
