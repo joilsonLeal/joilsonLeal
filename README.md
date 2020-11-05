@@ -1,6 +1,6 @@
 # Hello there 🖖
 
-### I'm Joilson, a Full Stack Developer 🚀 from Brazil.
+### I'm Joilson, a Node.js developer Compasso UOL 🚀 from Brazil.
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/joilsonLeal)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joilsonleal/)
