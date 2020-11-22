@@ -12,6 +12,8 @@
 - JavaScript
 - ReactJS
 - Node.js
+- Typescript
+- AWS
 
 ### 💡 Goals for 2020
 - Become skilled in JavaScript stack
