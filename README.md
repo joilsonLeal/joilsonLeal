@@ -16,7 +16,6 @@
 - AWS
 
 ### 💡 Goals for 2020
-- Become skilled in JavaScript stack
 - Read Clean Code - <strong> Robert Cecil Martin </strong> ✔️
 - Read Refactoring: Improving the Design of Existing Code (Javascript) - <strong> Martin Fowler </strong>
 
