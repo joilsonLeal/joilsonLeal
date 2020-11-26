@@ -38,6 +38,8 @@
 ![](https://img.shields.io/badge/Visual%20Studio-informational?style=flat&logo=Visual%20Studio&logoColor=white&color=5C2D91)
 ![](https://img.shields.io/badge/C%23-informational?style=flat&logo=C%20Sharp&logoColor=white&color=239120)
 ![](https://img.shields.io/badge/%2ENET-informational?style=flat&logo=%2ENET&logoColor=white&color=5C2D91)
+![](https://img.shields.io/badge/Typescript-informational?style=flat&logo=Typescript&logoColor=white&color=007ACC)
+![](https://img.shields.io/badge/Typescript-informational?style=flat&logo=Typescript&logoColor=white&color=007ACC)
 <br />
 
 <!-- Resources -->
