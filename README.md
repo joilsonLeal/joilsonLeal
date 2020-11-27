@@ -39,7 +39,7 @@
 ![](https://img.shields.io/badge/C%23-informational?style=flat&logo=C%20Sharp&logoColor=white&color=239120)
 ![](https://img.shields.io/badge/%2ENET-informational?style=flat&logo=%2ENET&logoColor=white&color=5C2D91)
 ![](https://img.shields.io/badge/Typescript-informational?style=flat&logo=Typescript&logoColor=white&color=007ACC)
-![](https://img.shields.io/badge/Typescript-informational?style=flat&logo=Typescript&logoColor=white&color=007ACC)
+![](https://img.shields.io/badge/Amazon%20AWS-informational?style=flat&logo=Amazon%20AWS&logoColor=white&color=232F3E)
 <br />
 
 <!-- Resources -->
