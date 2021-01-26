@@ -15,8 +15,8 @@
 - Typescript
 - AWS
 
-### 💡 Goals for 2020
-- Read Clean Code - <strong> Robert Cecil Martin </strong> ✔️
+### 💡 Goals for 2021
+- Pass AWS Certified Solutions Architect – Associate
 - Read Refactoring: Improving the Design of Existing Code (Javascript) - <strong> Martin Fowler </strong>
 
 ### 📖 Languages and Tools...
