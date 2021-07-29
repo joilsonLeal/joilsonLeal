@@ -16,7 +16,7 @@
 - AWS
 
 ### 💡 Goals for 2021
-- Pass AWS Certified Solutions Architect – Associate
+- Pass AWS Certified Solutions Architect – Associate ✔️
 - Read Refactoring: Improving the Design of Existing Code (Javascript) - <strong> Martin Fowler </strong>
 
 ### 📖 Languages and Tools...
