@@ -19,6 +19,7 @@
 - Pass AWS Certified Solutions Architect – Associate ✔️
 
 ### 💡 Goals for 2022
+- Learn about web3
 - Pass AWS Certified Security - Specialty
 
 ### 📖 Languages and Tools...
